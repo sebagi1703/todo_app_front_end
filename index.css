@@ -2,6 +2,14 @@ html{
 font-family: sans-serif
 }
 
+li{
+    margin-bottom: 10px
+}
+
+li: hover{
+    background-color: lightblue;
+}
+
 .pomodoro-estimate{
     color: red;
     font-weight: bold
