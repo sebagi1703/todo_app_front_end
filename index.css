@@ -1,22 +1,22 @@
 html{
-font-family: sans-serif
+font-family: cursive
 }
 
 li{
-    margin-bottom: 10px
+    margin-bottom: 15px
 }
 
 li: hover{
-    background-color: lightblue;
+    background-color: lightred;
 }
 
 .pomodoro-estimate{
     color: red;
     font-weight: bold
     font-size: 14px;
-    background-color:lightblue;
-    padding: 5px 10px 5px 10px;
-    border-radius: 50px;
+    background-color: orange;
+    padding: 1px 2px 1px 2px;
+    border-radius: 70px;
 }
 
 #add-new-todo-button{
